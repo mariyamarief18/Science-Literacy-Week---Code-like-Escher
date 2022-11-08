@@ -1,4 +1,4 @@
-1) -- view link: https://alpha.macoutreach.rocks/ShowModulePublish?modulePublishId=fa7ab957-a74a-46c5-8079-417d28332407
+-- view link: https://alpha.macoutreach.rocks/ShowModulePublish?modulePublishId=fa7ab957-a74a-46c5-8079-417d28332407
 
 -- Your shapes go here!
 myShapes model =
